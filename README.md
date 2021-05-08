@@ -1,1 +1,1 @@
-# homebridge-daikin-air-purifier
+# homebridge-local-daikin-air-purifier
